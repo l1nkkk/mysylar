@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl1nkkkLog.a  CMakeFiles/l1nkkkLog.dir/LogFormat.cpp.o CMakeFiles/l1nkkkLog.dir/LogIO.cpp.o CMakeFiles/l1nkkkLog.dir/LogLevel.cpp.o CMakeFiles/l1nkkkLog.dir/LogMsg.cpp.o CMakeFiles/l1nkkkLog.dir/Logger.cpp.o CMakeFiles/l1nkkkLog.dir/test.cpp.o CMakeFiles/l1nkkkLog.dir/util.cpp.o
+/usr/bin/ranlib libl1nkkkLog.a

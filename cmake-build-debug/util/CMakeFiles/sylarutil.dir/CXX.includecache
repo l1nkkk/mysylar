@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/l1nkkk/project/mime/mysylar/util/crypto_util.cc
+crypto_util.h
+/home/l1nkkk/project/mime/mysylar/util/crypto_util.h
+stdio.h
+-
+iostream
+-
+
+/home/l1nkkk/project/mime/mysylar/util/crypto_util.h
+openssl/ssl.h
+-
+openssl/evp.h
+-
+stdint.h
+-
+memory
+-
+string
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsylarcommon.a  CMakeFiles/sylarcommon.dir/config.cc.o CMakeFiles/sylarcommon.dir/env.cc.o CMakeFiles/sylarcommon.dir/util.cc.o
+/usr/bin/ranlib libsylarcommon.a

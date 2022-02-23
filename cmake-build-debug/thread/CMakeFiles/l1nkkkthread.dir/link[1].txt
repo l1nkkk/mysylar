@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl1nkkkThread.a  CMakeFiles/l1nkkkThread.dir/test.cpp.o CMakeFiles/l1nkkkThread.dir/thread.cpp.o
+/usr/bin/ranlib libl1nkkkThread.a

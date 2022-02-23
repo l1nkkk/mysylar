@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/l1nkkk/project/mime/mysylar/main.cpp
+iostream
+-
+list
+-
+thread/threadlib.h
+/home/l1nkkk/project/mime/mysylar/thread/threadlib.h
+glog/logging.h
+/home/l1nkkk/project/mime/mysylar/glog/logging.h
+
+/home/l1nkkk/project/mime/mysylar/thread/mutex.h
+iostream
+-
+pthread.h
+-
+semaphore.h
+-
+atomic
+-
+
+/home/l1nkkk/project/mime/mysylar/thread/thread.h
+pthread.h
+-
+functional
+-
+memory
+-
+string
+-
+semaphore.h
+-
+mutex.h
+/home/l1nkkk/project/mime/mysylar/thread/mutex.h
+
+/home/l1nkkk/project/mime/mysylar/thread/threadlib.h
+thread.h
+/home/l1nkkk/project/mime/mysylar/thread/thread.h
+

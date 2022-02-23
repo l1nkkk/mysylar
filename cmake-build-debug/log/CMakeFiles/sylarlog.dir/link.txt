@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsylarlog.a  CMakeFiles/sylarlog.dir/log.cc.o
+/usr/bin/ranlib libsylarlog.a

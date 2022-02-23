@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mysylar"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\;CMake Files\thread\;CMake Files\common\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysylar">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/mysylar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/l1nkkk/share/include/netbase"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysylar"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysylar/fast">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/mysylar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/l1nkkk/share/include/netbase"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysylar/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l1nkkkthread">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/libl1nkkkthread.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 l1nkkkthread"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l1nkkkthread/fast">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/libl1nkkkthread.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 l1nkkkthread/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/thread/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l1nkkkcommon">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/libl1nkkkcommon.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 l1nkkkcommon"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="l1nkkkcommon/fast">
+				<Option output="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/libl1nkkkcommon.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 l1nkkkcommon/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/l1nkkk/project/mime/mysylar/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/common/util.cpp">
+			<Option target="l1nkkkcommon"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/common/util.h">
+			<Option target="l1nkkkcommon"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/io/iomanager.cpp">
+			<Option target="mysylar"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/io/iomanager.h">
+			<Option target="mysylar"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/main.cpp">
+			<Option target="mysylar"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/fiber.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/fiber.h">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/mutex.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/mutex.h">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/scheduler.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/scheduler.h">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/test_fiber.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/test_scheduler.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/test_thread.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/thread.cpp">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/thread.h">
+			<Option target="l1nkkkthread"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/../../../../../usr/local/lib/cmake/glog/glog-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/../../../../../usr/local/lib/cmake/glog/glog-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/../../../../../usr/local/lib/cmake/glog/glog-modules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/../../../../../usr/local/lib/cmake/glog/glog-targets-noconfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/../../../../../usr/local/lib/cmake/glog/glog-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\glog\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/thread/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\thread\"/>
+		</Unit>
+		<Unit filename="/home/l1nkkk/project/mime/mysylar/common/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\common\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

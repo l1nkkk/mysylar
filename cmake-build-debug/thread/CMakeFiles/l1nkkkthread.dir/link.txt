@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl1nkkkthread.a CMakeFiles/l1nkkkthread.dir/fiber.cpp.o CMakeFiles/l1nkkkthread.dir/mutex.cpp.o CMakeFiles/l1nkkkthread.dir/scheduler.cpp.o CMakeFiles/l1nkkkthread.dir/test_fiber.cpp.o CMakeFiles/l1nkkkthread.dir/test_scheduler.cpp.o CMakeFiles/l1nkkkthread.dir/test_thread.cpp.o CMakeFiles/l1nkkkthread.dir/thread.cpp.o
+/usr/bin/ranlib libl1nkkkthread.a

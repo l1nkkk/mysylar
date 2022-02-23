@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/mysylar.dir/main.cpp.o CMakeFiles/mysylar.dir/io/iomanager.cpp.o -o mysylar   -L/home/l1nkkk/share/lib/netbase  -Wl,-rpath,/home/l1nkkk/share/lib/netbase:/usr/local/lib thread/libl1nkkkthread.a /usr/local/lib/libglog.so.0.5.0 common/libl1nkkkcommon.a -lpthread -lnetbase 

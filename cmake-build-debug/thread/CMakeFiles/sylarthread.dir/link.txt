@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsylarthread.a  CMakeFiles/sylarthread.dir/test.cpp.o CMakeFiles/sylarthread.dir/thread.cpp.o
+/usr/bin/ranlib libsylarthread.a
